@@ -4,7 +4,7 @@ Hi, I’m **Alexander S. Curtis** — an **AI Automation Architect, IoT & Cybers
 
 💡 My mission: to **drive digital transformation** by blending **AI, automation, and cybersecurity** into practical solutions that help businesses, professionals, and students thrive in a connected world.  
 
-🌐 [Website](https://qexa.com) • [LinkedIn](https://www.linkedin.com/in/alexanderscurtis) • [Twitter](https://twitter.com/alexandercurtis)
+🌐 [Website](https://alexandercurtis.com/) • [LinkedIn](https://www.linkedin.com/in/alexanderscurtis) • [Twitter](https://twitter.com/alexandercurtis)
 
 ---
 
